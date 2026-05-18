@@ -800,6 +800,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5084386766814027174, guid: 73fefb2abc706ff46940e511dd1cfd13, type: 3}
+      propertyPath: inputs
+      value: 
+      objectReference: {fileID: 937974624}
     - target: {fileID: 6180354357982479497, guid: 73fefb2abc706ff46940e511dd1cfd13, type: 3}
       propertyPath: m_Name
       value: GUI
@@ -1188,9 +1192,9 @@ Camera:
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
-    y: 0.055555556
+    y: 0
     width: 1
-    height: 0.8888889
+    height: 1
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
